@@ -27,7 +27,7 @@ ___----             ___------              \
    \e[1;96m   ┌─┐┌─┐┌─┐┌┬┐┌─┐┌─┐┬  ┬ \e[1;32m     |  |___________|
     \e[1;96m  └─┐├─┘├─┤││││  ├─┤│  │    \e[1;32m  |  | ((_(_)| )_)
      \e[1;96m └─┘┴  ┴ ┴┴ ┴└─┘┴ ┴┴─┘┴─┘   \e[1;32m |  \_((_(_)|/(_)
-               \e[0;90mBy: Haditiya Virya \e[1;32m  \             (
+               \e[0;90mBy: Hadhitiya virya \e[1;32m  \             (
              \e[0;90mBy: Cyber Attack Team \e[1;32m  \          \_____________)
 "; system ('echo'); sleep ('0.4'); echo " [+] No Target(628xx/08xx): "; $no = get(); $n = new prankCall($no); $n->run(); 
 ?>
